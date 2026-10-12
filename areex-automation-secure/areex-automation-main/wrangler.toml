@@ -1,0 +1,9 @@
+
+name = "areex-cloud"
+main = "worker.ts"
+compatibility_date = "2026-10-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "areex-cloud-db"
+database_id = "8a46fd35-9d66-41a7-b4aa-14b2602c24cb"
